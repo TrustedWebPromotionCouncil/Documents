@@ -2,24 +2,24 @@
 ## Executive Summary  
 Trusted Web Promotion Council  
 
-## 1\. Background of the White Paper (Main text 1. to 2.)
+## 1\. Background (Main text 1. to 2.)
 
--   Various pain points have arisen, such as concerns about the reliability of data flowing through the Internet and the Web, including fake news, the risk of privacy infringement, the risk of a single point of failure associated with a winner-takes-all situation, and the underutilization of industrial data.
+-   Amid of digitalization, various pain points have arisen for data reliability concerns on the Internet/Web, such as fake news, infringement of privacy, a single point of failure risk associated with a winner-takes-all situation, and siloed industrial data with less utilization.
 
--   In the transition to the "Digital Society," the current Internet and the Web, which mainly defines communication protocols, does not sufficiently embody responsibility and a sense of security required in social activities. In this sense, the reconstruction of Trust is essential.
+-   When the society transform to "Digital Society," current communication protocol on the Internet/Web, have insufficient capability or protocol creating trust relationship and safeness in the digital society. Therefore we must think how to rebuild the Trust on the Internet/Web.
 
-## 2\. Direction that the Trusted Web should pursue (Main text 3. to 5.)
+## 2\. Goal of Trusted Web (Main text 3. to 5.)
 
--   In the existing trust system, only small portion of facts associated with data exchange can be verified, and we are forced to trust platform operators without checking the facts. The identifier mechanism which can be used to link data also depends on platform operators.
+-   In the current system (on the Internet/Web), only small portion of facts associated with data exchange can be verified, so that we are forced to rely on platform operators without checking the facts. We also depend on using identifier mechanism provided by platform operators that link to our data.
 
--   It is necessary to heighten the degree of trust (the degree to which the other party behaves as expected) by introducing the mechanism of data control and consensus building as well as by increasing the portion of facts that can be verified, without relying on a specific service.
+-   It is necessary to increase the level of trust (the degree to which the other party behaves as expected) by introducing the mechanism of data control and consensus building, as well as by expanding the verifiability, without relying on a specific service.
 
--   By overlaying this trust framework on the current Internet (“overlay approach”), diverse entities are empowered to create new values. This is called the “Trusted Web”.
+-   We aim to overlay the trust framework on the current Internet (“Overlay approach”) and to enable various parties to create new value. This is our goal that we call as ‘Trusted Web’.
 
--   The Trusted Web allows users to control access to data (Identifier Management function), to verify identities of other parties and data, including review by third parties (Trustable Communication function), to build consensus on conditions in data exchange dynamically reflecting the intentions of both parties (Dynamic Consent function), and to verify the process and fulfillment of the consensus (Trace function). These functions are to be supported by multi-stakeholder governance.
+-   Trusted Web allow users to have access control of the data (Identifier management function), to verify trust of other parties and data including third parties reviews (Trustable Communication), to build consensus on conditions in data exchange dynamically reflecting the intentions of both parties (Dynamic Consent function), and to verify the process and fulfillment of the consensus (Trace function). Multi-stakeholder based governance will support these functions.
 
--   Creation of new economic values is expected e.g., by making reliable information more valuable and by facilitating data sharing among parties unknown to each other.
+-   We expect that, by making reliable data more valuable and by facilitating data sharing without even not knowing each other, it will lead to generate more economic value.
 
-## 3\. Roadmap for realizing the Trusted Web (Main text 6.)
+## 3\. Road map (Main text 6.) 
 
-This "discussion paper" aims to initiate the further consideration in collaboration with various global communities. The goal of the Trusted Web is to implement the functions mentioned above across the Internet and the Web by 2030 in collaboration with relevant global stakeholders.
+-   The objective of this "Discussion paper" is to provide the starting point to generate discussion and collaboration with various global communities. The goal of the Trusted Web is to implement the functions above mentioned in collaboration with relevant stakeholders across on the Internet/Web by 2030.
