@@ -18,7 +18,7 @@ Trusted Web Promotion Council
 
 -   Trusted Web allow users to have access control of the data (Identifier management function), to verify trust of other parties and data including third parties reviews (Trustable Communication), to build consensus on conditions in data exchange dynamically reflecting the intentions of both parties (Dynamic Consent function), and to verify the process and fulfillment of the consensus (Trace function). Multi-stakeholder based governance will support these functions.
 
--   We expect that, by making reliable data more valuable and by facilitating data sharing without even not knowing each other, it will lead to generate more economic value.
+-   We expect that, by making reliable data more valuable and by facilitating data sharing without even knowing each other, it will lead to generate more economic value.
 
 ## 3\. Road map (Main text 6.) 
 
