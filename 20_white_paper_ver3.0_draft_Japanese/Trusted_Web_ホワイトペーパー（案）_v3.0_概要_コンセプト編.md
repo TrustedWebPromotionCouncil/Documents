@@ -883,7 +883,7 @@ f. . ユーザー視点
 
 163. 2022年度のユースケース実証では、多くの事業者がVerifiable Credentials Data Modelを参考に企画・開発を行っていることが確認された。
 
-> <img src="img-concept-src/media/image10.png" style="width:5.83715in;height:2.59206in" />
+<img src="https://www.w3.org/TR/vc-data-model-2.0/diagrams/ecosystem.svg" style="width:5.83715in;height:2.59206in" />
 
 図 6‑3 Verifiable Credentials Data Modelにおける基本的な役割と情報の流れ[^19]
 
